@@ -6,8 +6,8 @@
     "firebase": "7.9.2",
     "firebase-admin": "8.9.2",
     "firebase-functions": "3.3.0",
-    "react": "16.13.0",
-    "react-dom": "16.13.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
     "request": "2.88.2"
   },
   "devDependencies": {
