@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "firebase": "7.9.2",
-    "lodash": "4.17.15",
+    "lodash": "4.17.20",
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "react-router": "5.1.2",
