@@ -905,6 +905,11 @@
   resolved "https://registry.yarnpkg.com/@next/polyfill-nomodule/-/polyfill-nomodule-9.2.2.tgz#2687d5b64ba053b247700f057f083dfd392ee52e"
   integrity sha512-J51QpynN0AxQ0saWkxgpr0JxWqSJFCBOOeQpbyn5hlgxjrcXR9dQ59tN677vbq2wJ8idLn898vZFaRmQsLq13A==
 
+"@snyk/protect@^1.1253.0":
+  version "1.1253.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1253.0.tgz#bf22d5cc7b434a6fdc096f2f1473b22a579d581c"
+  integrity sha512-5yCM4jL9D8TUYufOTEmZk91vjhWuZm7YBAuVvqQKS0E3RR7ylKmA+ekxQhpfIPMcr1TmtJRMbFWFuY3zW/bobQ==
+
 "@webassemblyjs/ast@1.8.5":
   version "1.8.5"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.8.5.tgz#51b1c5fe6576a34953bf4b253df9f0d490d9e359"
