@@ -2,7 +2,7 @@
   "name": "moderate-image-function",
   "description": "Offensive Image blurring using Firebase Function",
   "dependencies": {
-    "@google-cloud/vision": "^1.9.0",
+    "@google-cloud/vision": "^5.0.0",
     "child-process-promise": "^2.2.1",
     "firebase-admin": "^8.9.2",
     "firebase-functions": "^3.3.0",
