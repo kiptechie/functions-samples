@@ -8,8 +8,8 @@
     "build": "npm run createfirebaseconf && npm run buildClient && npm run buildServer"
   },
   "dependencies": {
-    "firebase": "7.9.2",
-    "lodash": "4.17.15",
+    "firebase": "7.14.0",
+    "lodash": "4.17.23",
     "react": "16.13.0",
     "react-dom": "16.13.0",
     "react-router": "5.1.2",
