@@ -2,7 +2,7 @@
   "name": "email-notifier-functions",
   "description": "Cloud Functions for Firebase",
   "dependencies": {
-    "@sendgrid/mail": "6.5.3",
+    "@sendgrid/mail": "7.0.0",
     "firebase-admin": "~8.9.2",
     "firebase-functions": "^3.3.0"
   },
